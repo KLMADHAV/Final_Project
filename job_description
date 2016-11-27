@@ -1,0 +1,60 @@
+Product : Internal cloud application
+	To get servers allocated to users.
+	
+	Command line API to get the servers
+	
+Products : Openstack, Custom Application.
+
+Job Description
+
+1) Maintaining cloud based application to have availability to the users.
+2) Deploying code on tomcat application servers in difference data centers.
+3) Making and configuing automated builds.
+4) Supporting developers and working on Maven Projects.
+5) Maintaining the code in SVN repository.
+6) Doing automated deployments using Run Deck.
+7) Working in Incidents reported on SLA basis.
+8) Server monitoring and configurations in OS as well as application.
+9) Working with DBA's for new releases of applciation.
+10) Working on CR's when ever they are scheduled.
+11) Server patching if required any.
+12) Doing automation with Shell & Python scripts.
+13) Managing servers using Open source Ansible. (puppet)
+14) Responsible for cratign and managing Ansible Play books. (Puppet Modules)
+15) Workign with network team for LB configurations.
+16) Adding plugins and configure plgins in Jenkins.
+17) Working on Repository Manager tools like Aratifactory. (Sonatype Nexus)
+18) Maintaining documentation for releases and Customer FAQ's.
+19) Involving in regular scrum calls and bridge calls.
+20) Working on SR's on daily basis.
+	a) Unable to login. -> Provide the  conflence  page.
+	b) Unable to launch a server 
+		-> Previlege to launch the server.
+		-> Quota might be expired.
+		
+21) Scanning and fixing the appliucation vulnerabilities on release basis. (Nessus, Qualys)
+22) Working on code secutiry scans. (Black-Duck)
+
+
+
+
+I would be working in shifts.
+Working on planned release.
+Working on weekly UAT releases.
+Working on incidents.
+	1) Application
+	2) Server
+	3) Database.
+
+Attending daily scrum calls.
+Working SR & CRs.
+Making scripts on demand.
+	1) Shell
+		Automating the new server deployment .
+	2) Python Scripting
+		Automated DB queries to DB
+			Module : cx_Oracle
+			Module : Boto (AWS)
+
+
+Linux server automated installation on demand with Ansible / Puppet.
